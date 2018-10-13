@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container{width:1004px; height:714px; position:relative; background:#999; border:#333 solid 1px; margin:auto auto;}
+.score{width:300px; float:left; height:700px;background:#fff; border:#eee solid 1px; text-align:center;}
+.playing{width:700px; float:right;height:700px;background:#000; border: #066 solid 1px;}
+.playing .item1{ width:48px; height:48px; float:left; background:url(../images/element_grey_diamond_glossy.png) no-repeat;}
+.playing .item2{ width:48px; height:48px; float:left; background:url(../images/element_blue_diamond_glossy.png) no-repeat;}
+.playing .item3{ width:48px; height:48px; float:left; background:url(../images/element_green_polygon_glossy.png) no-repeat;}
