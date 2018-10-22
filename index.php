@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Arab net game</title>
 
-<script type='text/javascript' src='http://localhost/montaser/coral/demo5/system/public/javascripts/js/jquery-1.7.1.min.js'></script>
+<script type='text/javascript' src='./js/jquery-1.7.1.min.js'></script>
 <link href="css/css.css" rel="stylesheet" type="text/css">
 <script>
 
